@@ -1,0 +1,97 @@
+Username: 
+Password: 
+Hostname: 
+MAC: 
+IP: ::1
+Target: http://localhost/captiveportal/index.php
+Username: 
+Password: 
+Hostname: 
+MAC Address: 
+IP Address: ::1
+Target: http://localhost/index.php
+-----------------------
+Username: 
+Password: 
+Hostname: 
+MAC Address: 
+IP Address: ::1
+Target: http://localhost/index.php
+-----------------------
+Username: a
+Password: 
+Hostname: 
+MAC Address: 
+IP Address: ::1
+Target: http://localhost/index.php
+-----------------------
+Username: 
+Password: 
+Hostname: 
+MAC Address: 
+IP Address: ::1
+Target: http://localhost/index.php
+-----------------------
+Username: 
+Password: 
+Hostname: 
+MAC Address: 
+IP Address: ::1
+Target: http://localhost/index.php
+-----------------------
+Username: 
+Password: 
+Hostname: 
+MAC Address: 
+IP Address: ::1
+Target: http://localhost/index.php
+-----------------------
+Username: 
+Password: 
+Hostname: 
+MAC Address: 
+IP Address: ::1
+Target: http://localhost/index.php
+-----------------------
+Username: cc
+Password: cc
+Hostname: 
+MAC Address: 
+IP Address: 127.0.0.1
+Target: http://localhost/index.php
+-----------------------
+Username: 
+Password: 
+Hostname: 
+MAC Address: 
+IP Address: 127.0.0.1
+Target: http://localhost/index.php
+-----------------------
+Username: 
+Password: 
+Hostname: 
+MAC Address: 
+IP Address: 127.0.0.1
+Target: http://localhost/index.php
+-----------------------
+Username: 
+Password: 
+Hostname: 
+MAC Address: 
+IP Address: 127.0.0.1
+Target: http://localhost/index.php
+-----------------------
+Username: dsf
+Password: sdf
+Hostname: 
+MAC Address: 
+IP Address: 127.0.0.1
+Target: http://localhost/index.php
+-----------------------
+Username: sdf
+Password: sdf
+Hostname: 
+MAC Address: 
+IP Address: 127.0.0.1
+Target: http://localhost/index.php
+-----------------------
